@@ -1,0 +1,30 @@
+E:\Денис\IT\C# Lessons1\Example3\bin\Debug\net6.0\Example3.exe
+E:\Денис\IT\C# Lessons1\Example3\bin\Debug\net6.0\Example3.deps.json
+E:\Денис\IT\C# Lessons1\Example3\bin\Debug\net6.0\Example3.runtimeconfig.json
+E:\Денис\IT\C# Lessons1\Example3\bin\Debug\net6.0\Example3.dll
+E:\Денис\IT\C# Lessons1\Example3\bin\Debug\net6.0\Example3.pdb
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\Example3.csproj.AssemblyReference.cache
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\Example3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\Example3.AssemblyInfoInputs.cache
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\Example3.AssemblyInfo.cs
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\Example3.csproj.CoreCompileInputs.cache
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\Example3.dll
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\refint\Example3.dll
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\Example3.pdb
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\Example3.genruntimeconfig.cache
+E:\Денис\IT\C# Lessons1\Example3\obj\Debug\net6.0\ref\Example3.dll
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\bin\Debug\net6.0\Example3.exe
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\bin\Debug\net6.0\Example3.deps.json
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\bin\Debug\net6.0\Example3.runtimeconfig.json
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\bin\Debug\net6.0\Example3.dll
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\bin\Debug\net6.0\Example3.pdb
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\Example3.csproj.AssemblyReference.cache
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\Example3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\Example3.AssemblyInfoInputs.cache
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\Example3.AssemblyInfo.cs
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\Example3.csproj.CoreCompileInputs.cache
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\Example3.dll
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\refint\Example3.dll
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\Example3.pdb
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\Example3.genruntimeconfig.cache
+E:\Денис\IT\CSharpProgect\Lesson01\Example3\obj\Debug\net6.0\ref\Example3.dll
